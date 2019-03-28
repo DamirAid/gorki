@@ -1,0 +1,45 @@
+@font-face {
+	font-family: "CenturyGothic";
+	src: url("../fonts/CenturyGothic/CenturyGothic.eot");
+	src: url("../fonts/CenturyGothic/CenturyGothic.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/CenturyGothic/CenturyGothic.woff") format("woff"),
+			 url("../fonts/CenturyGothic/CenturyGothic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Impact";
+	src: url("../fonts/Impact/Impact.eot");
+	src: url("../fonts/Impact/Impact.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Impact/Impact.woff") format("woff"),
+			 url("../fonts/Impact/Impact.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "PFBeauSansProRegular";
+	src: url("../fonts/PFBeauSansProRegular/PFBeauSansProRegular.eot");
+	src: url("../fonts/PFBeauSansProRegular/PFBeauSansProRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/PFBeauSansProRegular/PFBeauSansProRegular.woff") format("woff"),
+			 url("../fonts/PFBeauSansProRegular/PFBeauSansProRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Festus";
+	src: url("../fonts/Festus/Festus.eot");
+	src: url("../fonts/Festus/Festus.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Festus/Festus.woff") format("woff"),
+			 url("../fonts/Festus/Festus.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Corinthia";
+	src: url("../fonts/Corinthia/Corinthia.eot");
+	src: url("../fonts/Corinthia/Corinthia.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Corinthia/Corinthia.woff") format("woff"),
+			 url("../fonts/Corinthia/Corinthia.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
